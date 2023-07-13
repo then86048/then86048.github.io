@@ -29,5 +29,6 @@
       "manualNative": ""
     }
   ],
-  "showinterstitial": 0
+  "showinterstitial": 0,
+  "showrate": false
 }
