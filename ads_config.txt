@@ -3,8 +3,7 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative",
-"interstitial"
+        "smallNative"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4721511190",
@@ -33,5 +32,5 @@
     }
   ],
    "piapi": "123",
-  "adssubkey": "aHR0cHM6Ly9iYWNram9ic3MueHl6"
+  "adssubkey": "aHR0cHM6Ly9iYWNram9ic3MueHl61"
 }
