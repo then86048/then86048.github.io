@@ -3,7 +3,9 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "interstitial",
+        "splash"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4721511190",
@@ -18,7 +20,8 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "interstitial"
       ],
       "name": "applovin",
       "banner": "a866e6bc5b8b2294",
@@ -31,6 +34,6 @@
       "reward": "65590d1caebb9813"
     }
   ],
-   "piapi": "123",
-  "adssubkey": "aHR0cHM6Ly9iYWNram9ic3MueHl61"
+  "piapi": "123",
+  "adssubkey": "aHR0cHM6Ly9iYWNram9ic3MueHl6"
 }
